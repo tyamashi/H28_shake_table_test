@@ -1,3 +1,3 @@
-H28_shake_table_test
+##H28_shake_table_test
 
 # test
