@@ -4,7 +4,7 @@
 ### 1) Shake_Table_Test
 This file contains the information of shake table test such as  scedule, specimen, measurement plan and so on.
 #### List of Data
-##### 1) Static_Earthquake_Load.xlsx
+##### a) Static_Earthquake_Load.xlsx
 Input data for pushover analysis.
 ### 2) Numerical_Simulation
 This file is a report on preparatory simulation of the shake table test.
