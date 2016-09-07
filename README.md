@@ -7,7 +7,7 @@ This file contains the information of shake table test such as  scedule, specime
 ##### a) Static_Earthquake_Load.xlsx
 Input data for pushover analysis.
 ##### b) Result_of_Pushover_Analysis.xlsx
-relation of inter-story displacement and Q1
+relation of inter-story displacement and Qi
 ### 2) Numerical_Simulation
 This file is a report on preparatory simulation of the shake table test.
 ### 3) Structure_Health_monitoring_test (SHM_test)
