@@ -12,3 +12,4 @@ This file is a report on preparatory simulation of the shake table test.
 This file is a report on SHM test.
 ### 4) Residual_earthquake_resistance_performance_test
 This file is a report on residual earthquake resistance performance test.
+
